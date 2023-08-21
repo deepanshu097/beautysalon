@@ -1,0 +1,151 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+h3,h2{
+    font-size: 44px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color:#f69bd5;
+    font-weight: 100;
+    text-shadow:4px 2px 4px #f69bd5;
+}
+.col-heading{
+    margin-top: 30px;
+    font-size: 54px;
+    font-weight: 500;
+
+}
+.col-para{
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: 500;
+    font-style:italic;
+}
+.bg-custom{
+    background-color: #f69bd5;
+}
+.navbar-brand{
+    margin-top: 15px;
+    font-size: 30px;
+    color:white;
+    background-color: linear-gradient(pink,red,yellow,violet);
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand:hover{
+    margin-top: 15px;
+    font-size: 30px;
+    color:white;
+    background-color: linear-gradient(pink,red,yellow,violet);
+text-shadow: 2px 2px 16px white;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+nav .nav-link{
+    margin-top: 15px;
+    font-size: 20px;
+    color:white;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+nav .nav-link:hover{
+    background-color: aliceblue;
+    color:#f69bd5;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 10px;
+}
+
+section .intro-img{
+    background-image: url('../images/adam-winger-KVVjmb3IIL8-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+    border-radius: 0px 0px 10px 10px;
+}
+.col-img img{
+    border-radius: 10px;
+}
+
+.col-bg{
+    background-color:#eebadb;
+    color: white;
+    border-radius: 10px;
+}
+
+section .learn-more{
+    background-color: white;
+    color: #f69bd5;
+    padding:15px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.learn-more:hover{
+    
+    background-color: white;
+    color: #f69bd5;
+    padding:15px;
+    border-radius: 10%;
+    text-decoration: none;   
+    box-shadow:2px 2px 30px white;
+}
+
+.seating h3 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #f69bd5;
+    text-shadow: none;
+}
+.seating p{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #f69bd5;
+    text-shadow: none;
+}
+
+
+
+footer a{
+    color: white;
+    font-size: 24px;
+}
+footer p{
+    color: white;
+    font-size: 16px;
+}
+
+.bg-custom-form{
+    background-color: #f69bd5;
+    color:white;
+    
+}
+.bg-custom-form:hover{
+    background-color: #f69bd5;
+    color:white;
+    box-shadow: 2px 2px 16px #f69bd5;
+}
+
+.btn{
+     background-color: white;
+color: #f69bd5;
+border-radius: 10px;
+
+}
+.btn:hover{
+    background-color: white;
+color: #f69bd5;
+border-radius: 10px;
+box-shadow: 2px 2px 16px white;
+
+}
+.error{
+    display: none ;
+}
