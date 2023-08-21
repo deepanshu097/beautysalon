@@ -1,0 +1,9 @@
+[sendmail]
+smtp_server=mail.mydomain.com
+smtp_port=587
+smtp_ssl=auto
+error_logfile=error.log
+debug_logfile=debug.log
+auth_username=deepanshuyadav697@gmail.com
+auth_password=qtnqtqkxysonhhfy
+force_sender=deepanshuyadav697@gmail.com
